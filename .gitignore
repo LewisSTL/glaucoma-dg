@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+checkpoints/
+results/
+*.pt
+*.pth
+
+# raw/processed datasets — too large for git, re-download instead
+data/
+hymenoptera_data/
+archive/
